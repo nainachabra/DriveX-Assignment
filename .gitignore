@@ -1,20 +1,12 @@
-# Frontend (React)
-node_modules/
+# Ignore environment variables
+.env
 
-# Backend (Python)
+# Ignore virtual environment
 venv/
 __pycache__/
-*.pyc
 
-# IDE files (optional)
-.vscode/
-.idea/
-
-# Ignore Python virtual environments
-venv/
-__pycache__/
-*.pyc
-
-# Ignore large or unnecessary files
-*.dylib
+# Node.js dependencies
 node_modules/
+
+# Ignore system files
+.DS_Store
