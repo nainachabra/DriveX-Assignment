@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DriveX-Assignment
 This document outlines the steps required to deploy the DriveX web application (frontend and backend) on a hosting service. Follow these steps carefully to ensure a successful deployment.
 
@@ -61,3 +62,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+=======
+# DriveX-Assignment
+>>>>>>> d0dbc10 (Initial commit for DriveX assignment)
